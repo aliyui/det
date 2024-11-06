@@ -1,40 +1,35 @@
 ```Loading...
 ╭──────────────────────────────────────────────────╮
-│ [CYBER-MATRIX ACCESS POINT]                      │
-│ CyberID: [Your_Name]                             │
-│ Status: AUTHENTICATED via QuantumHash            │
-│ System: Neo-Linux Quantum Build 2100.4           │
+│ [CYBER ACCESS POINT]                             │
+│ CyberID: [ahsanba-id]                            │
+│ Status: FOREVER LEARNER via GitHub               │
+│ System: Linux Mint                               │
 ╰──────────────────────────────────────────────────╯
 
-## [⚡] NEURAL CODEX IMPLEMENTATION [⚡]
+## [⚡] MIGRATING [⚡]
+
+MIGRATING FROM WINDOWS 8.1 TO LINUX MINT
+
 
     ╔════════════════════════════════════════╗
-    ║ INITIALIZING SKILL MATRIX...           ║
-    ║ QUANTUM CORE ENGAGED_                  ║
+    ║         <STARTED_TRANSMISION>          ║
     ╚════════════════════════════════════════╝
 
-## [🧠] MASTER PROTOCOL SUITE
-
-CORE_MATRIX = {
+PROGRAMMING_LANGUAGES = {
     Python: {
         level: "████████░░",
         type: "Neural-Logic",
         quantum_state: "Stable"
     },
-    JavaScript: {
+    C: {
         level: "███████░░░",
-        type: "Reality-Weaver",
-        quantum_state: "Active"
+        type: "Core-Protocol",
+        quantum_state: "Enhanced"
     },
     "C++": {
         level: "████████░░",
         type: "Machine-Mind",
         quantum_state: "Optimized"
-    },
-    C: {
-        level: "███████░░░",
-        type: "Core-Protocol",
-        quantum_state: "Enhanced"
     },
     Kotlin: {
         level: "███████░░░",
@@ -45,6 +40,11 @@ CORE_MATRIX = {
         level: "████████░░",
         type: "Virtual-Structure",
         quantum_state: "Rendered"
+    },
+    JavaScript: {
+        level: "█████░░░░░",
+        type: "Reality-Weaver",
+        quantum_state: "Active"
     },
     Bash: {
         level: "████████░░",
@@ -115,6 +115,6 @@ CORE_MATRIX = {
     [SYSTEM]: QUANTUM SIGNATURE VERIFIED...
     
     ╔════════════════════════════════╗
-    ║    </END_TRANSMISSION>         ║
+    ║      </END_TRANSMISSION>       ║
     ╚════════════════════════════════╝
 ```
